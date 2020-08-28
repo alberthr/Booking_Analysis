@@ -1,8 +1,17 @@
 # Analysis de datos de Booking.com data
+Autores: Krishna Morales y Albert Hinojosa
 
-El fichero de la memoria es llamado [Memoria TFM - Data Science.pdf](https://github.com/alberthr/Booking_Analysis/blob/master/Memoria%20TFM%20-%20Data%20Science.pdf)
+### Acerca del Trabajo
 
-### Links de acceso a Booking_Analysis
+Nuestro TFM explora un fichero encontrado en Kaggle que contiene información acerca de 515K reviews hechas en hoteles de 4 y 5 estrellas en distintas ciudades europeas. El objetivo final del trabajo es encontrar un sistema de clasificación que sea capaz de encontrar potenciales reviews negativas antes de que éstas ocurran y poder asi avanzar acciones que las puedan evitar.
+
+
+### Memoria
+
+El fichero de la memoria es llamado [Memoria TFM - Data Science.pdf](https://github.com/alberthr/Booking_Analysis/blob/master/Memoria%20TFM%20-%20Data%20Science.pdf). En ella se encuentra toda la explicación y desarrollo del trabajo desde el inicial hasta la conclusiones finales y aprendizajes sacados durante todo el proceso.
+
+
+### Links de acceso
 
 **Creación de variables**
 - Create features 1 (recodes)
