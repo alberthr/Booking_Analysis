@@ -8,7 +8,7 @@ Nuestro TFM explora un fichero encontrado en Kaggle que contiene información ac
 
 ### Memoria
 
-El fichero de la memoria es llamado [Memoria TFM - Data Science.pdf](https://github.com/alberthr/Booking_Analysis/blob/master/Memoria%20TFM%20-%20Data%20Science.pdf). En ella se encuentra toda la explicación y desarrollo del trabajo desde el inicial hasta la conclusiones finales y aprendizajes sacados durante todo el proceso.
+El fichero de la memoria es llamado [Memoria TFM - Data Science.pdf](https://github.com/alberthr/Booking_Analysis/blob/master/Memoria%20TFM%20-%20Data%20Science.pdf). En ella se encuentra toda la explicación y desarrollo del trabajo desde el inicio hasta la conclusiones finales y aprendizajes sacados durante todo el proceso.
 
 
 ### Notebooks y Estructura en GitHub
